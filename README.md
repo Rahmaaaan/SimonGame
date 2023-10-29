@@ -13,11 +13,11 @@ The Simon Game is a classic memory and pattern recognition game designed to test
 
 ## Features
 
-🕹️ **Classic Gameplay:** Experience the authentic Simon game with its iconic four-color buttons.
-🕹️ **Sound and Light Sequences:** Simon will produce a sequence of sounds and lights that you need to repeat correctly.
-🕹️ **Progressive Difficulty:** As you advance, the sequences become longer and more challenging.
-🕹️ **High Scores:** Keep track of your best scores and aim to beat your personal records.
-🕹️ **Fun and Educational:** The Simon Game is not only entertaining but also a great tool for memory improvement.
+- **Classic Gameplay:** Experience the authentic Simon game with its iconic four-color buttons.
+- **Sound and Light Sequences:** Simon will produce a sequence of sounds and lights that you need to repeat correctly.
+- **Progressive Difficulty:** As you advance, the sequences become longer and more challenging.
+- **High Scores:** Keep track of your best scores and aim to beat your personal records.
+- **Fun and Educational:** The Simon Game is not only entertaining but also a great tool for memory improvement.
 
 ## Demo
 
