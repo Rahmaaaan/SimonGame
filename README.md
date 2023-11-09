@@ -21,7 +21,7 @@ The Simon Game is a classic memory and pattern recognition game designed to test
 
 ## Demo
 
-Curious to see how the Simon Game works? Try it out in action with our live demo [here](https://rahmaaaan.github.io/SimonGame/).
+Curious to see how the Simon Game works? Try it out in action with our live demo [here]().
 
 ## Installation
 
