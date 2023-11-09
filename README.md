@@ -1,11 +1,11 @@
 # SimonGame
 
-🕹️ [Description](#description)
-🕹️ [Features](#features)
-🕹️ [Demo](#demo)
-🕹️ [Installation](#installation)
-🕹️ [How to Play](#how-to-play)
-🕹️ [Contributing](#contributing)
+- 🕹️ [Description](#description)
+- 🕹️ [Features](#features)
+- 🕹️ [Demo](#demo)
+- 🕹️ [Installation](#installation)
+- 🕹️ [How to Play](#how-to-play)
+- 🕹️ [Contributing](#contributing)
 
 ## Description
 
